@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
-      <link>http://example.org/news/</link>
+      <link>/news/</link>
       <pubDate>Sun, 10 Jan 2021 18:48:42 +0100</pubDate>
       
-      <guid>http://example.org/news/</guid>
+      <guid>/news/</guid>
       <description>2021
  2 papers accepted at CVPR21  Probabilistic Embeddings for Cross-Modal Retrieval Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning (oral)   Area Chair for CVPR21, MVA21, and ICCV21 2 papers accepted at WACV21  Unsupervised meta-domain adaptation for fashion retrieval [paper, code, video] StacMR: Scene-Text Aware Cross-Modal Retrieval [paper, code, video]    2020
  Best reviewer award at NeurIPS20 Keynote speaker at the MIAI DAY 2020 event Paper accepted at NeurIPS20: Hard negative mixing for contrastive learning [project page] Invited talk at the Instance-Level Recognition Workshop at ECCV20 [video] Paper accepted at ECCV20: Learning Visual Representations with Caption Annotations [project page, blog] Industrial chair at ECCV20 Area Chair for ECCV20, CVPR20  2019</description>
@@ -19,28 +19,28 @@
     
     <item>
       <title>Publications</title>
-      <link>http://example.org/publications/</link>
+      <link>/publications/</link>
       <pubDate>Sun, 10 Jan 2021 18:48:42 +0100</pubDate>
       
-      <guid>http://example.org/publications/</guid>
+      <guid>/publications/</guid>
       <description>Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning. Riccardo Volpi, Diane Larlus, Gregory Rogez. CVPR 2021 Probabilistic Embeddings for Cross-Modal Retrieval. Sanghyuk Chun, Seong Joon Oh, Rafael Sampaio de Rezende, Yannis Kalantidis, Diane Larlus. CVPR 2021 Unsupervised Meta-Domain Adaptation for Fashion Retrieval. Vivek Sharma, Naila Murray, Diane Larlus, Saquib Sarfraz, Rainer Stiefelhagen, Gabriela Csurka. WACV 2021 StacMR: Scene-Text Aware Cross-Modal Retrieval. Andres Mafla, Rafael Sampaio de Rezende, Lluis Gomez, Diane Larlus, Dimosthenis Karatzas.</description>
     </item>
     
     <item>
       <title>Recent talks</title>
-      <link>http://example.org/talks/</link>
+      <link>/talks/</link>
       <pubDate>Sun, 10 Jan 2021 18:48:42 +0100</pubDate>
       
-      <guid>http://example.org/talks/</guid>
+      <guid>/talks/</guid>
       <description>          June 2021   Invited talk at the Women in Computer Vision (WiCV) Workshop at CVPR21   May 2021  Invited talk at the ANITI research institute [scientific seminar]   October 2020  Keynote Speaker for MIAI Days   August 2020  Invited talk at the ILR Workshop at ECCV20 [Video]   April 2019  Invited talk at the StatLearn 19 conference   November 2018  Invited speaker, AI and Vision session at SophIA Summit   July 2018  Lecture at the PRAIRIE Artificial Intelligence summer school (PAISS) [slides]          Older: see CV    </description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://example.org/teaching/</link>
+      <link>/teaching/</link>
       <pubDate>Sun, 10 Jan 2021 18:48:42 +0100</pubDate>
       
-      <guid>http://example.org/teaching/</guid>
+      <guid>/teaching/</guid>
       <description>          2020/2021   Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   2020  Découvrir l’intelligence artificielle par le jeu (Discover AI with games is a 2 day training session for high school teachers) - Maison pour la Science Alpes-Dauphiné   Nov 2019   Lecture on Visual Search as part of the &amp;lsquo;Deep Learning&amp;rsquo; course for the MVA master - ENS Paris   2019/2020   Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   Feb 2019  Lecture on Visual Search as part of the &amp;lsquo;Deep Learning in Practice&amp;rsquo; course for the MVA master - ENS Paris   2018/2019  Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   July 2018  Lecturer at the PRAIRIE Artificial Intelligence summer school - PAISS 2018 - talk about Visual Search slides     Older: see CV    </description>
     </item>
     
