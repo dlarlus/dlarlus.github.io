@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Diane Larlus&#39;s Personal Page</title>
     <link>/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Diane Larlus&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,8 +13,7 @@
       
       <guid>/news/</guid>
       <description>2021
- 2 papers accepted at CVPR21  Probabilistic Embeddings for Cross-Modal Retrieval Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning (oral) [paper, blog]   Area Chair for CVPR21, MVA21, ICCV21, BMVC21 2 papers accepted at WACV21  Unsupervised meta-domain adaptation for fashion retrieval [paper, code, video] StacMR: Scene-Text Aware Cross-Modal Retrieval [paper, code, video]    2020
- Best reviewer award at NeurIPS20 Keynote speaker at the MIAI DAY 2020 event Paper accepted at NeurIPS20: Hard negative mixing for contrastive learning [project page, video] Invited talk at the Instance-Level Recognition Workshop at ECCV20 [video] Paper accepted at ECCV20: Learning Visual Representations with Caption Annotations [project page, blog] Industrial chair at ECCV20 Area Chair for ECCV20, CVPR20  2019</description>
+ I&amp;rsquo;m one of the organizers of the PAISS Summer School 2021 (organized by MIAI, PRAIRIE and NAVER LABS Europe) Invited talk at the Women in Computer Vision (WiCV) Workshop at CVPR21 [Video] Invited talk at the ANITI research institute (scientific seminar) 2 papers accepted at CVPR21  Probabilistic Embeddings for Cross-Modal Retrieval Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning (oral) [paper, blog]   Area Chair for CVPR21, MVA21, ICCV21, BMVC21 2 papers accepted at WACV21  Unsupervised meta-domain adaptation for fashion retrieval [paper, code, video] StacMR: Scene-Text Aware Cross-Modal Retrieval [paper, code, video]    2020</description>
     </item>
     
     <item>
@@ -32,7 +31,7 @@
       <pubDate>Sun, 10 Jan 2021 18:48:42 +0100</pubDate>
       
       <guid>/talks/</guid>
-      <description>          June 2021   Invited talk at the Women in Computer Vision (WiCV) Workshop at CVPR21 - Lifelong visual representation learning   May 2021  Invited talk at the ANITI research institute (scientific seminar) - Learning from weak supervision and mitigating catastrophic forgetting   October 2020  Keynote Speaker for MIAI Days - Lifelong visual representation learning   August 2020  Invited talk at the ILR Workshop at ECCV20 - From Instance-Level to Semantic Image Retrieval [Video]   November 2019  Invited talk at the SOLARIS Workshop - Self-supervised learning for category-level geometry estimation   April 2019  Invited talk at the StatLearn 19 conference - Learning Image Representations for Efficient Visual Search   November 2018  Invited speaker, AI and Vision session at SophIA Summit - Visual Search   July 2018  Lecture at the PRAIRIE Artificial Intelligence summer school (PAISS) [slides] - Visual Search          Older: see CV    </description>
+      <description>          June 2021   Invited talk at the Women in Computer Vision (WiCV) Workshop at CVPR21 - Lifelong visual representation learning [Video]   May 2021  Invited talk at the ANITI research institute (scientific seminar) - Learning from weak supervision and mitigating catastrophic forgetting   October 2020  Keynote Speaker for MIAI Days - Lifelong visual representation learning   August 2020  Invited talk at the ILR Workshop at ECCV20 - From Instance-Level to Semantic Image Retrieval [Video]   November 2019  Invited talk at the SOLARIS Workshop - Self-supervised learning for category-level geometry estimation   April 2019  Invited talk at the StatLearn 19 conference - Learning Image Representations for Efficient Visual Search   November 2018  Invited speaker, AI and Vision session at SophIA Summit - Visual Search   July 2018  Lecture at the PRAIRIE Artificial Intelligence summer school (PAISS) [slides] - Visual Search          Older: see CV    </description>
     </item>
     
     <item>
@@ -42,6 +41,16 @@
       
       <guid>/teaching/</guid>
       <description>          May 2021   Guest lecture on Visual Search - Hanoi University of Science and Technology (HUST), Vietnam   2020/2021   Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   2020  Découvrir l’intelligence artificielle par le jeu (Discover AI with games is a 2 day training session for high school teachers) - Maison pour la Science Alpes-Dauphiné   Nov 2019   Lecture on Visual Search as part of the &amp;lsquo;Deep Learning&amp;rsquo; course for the MVA master - ENS Paris   2019/2020   Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   Feb 2019  Lecture on Visual Search as part of the &amp;lsquo;Deep Learning in Practice&amp;rsquo; course for the MVA master - ENS Paris   2018/2019  Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   July 2018  Lecture on Visual Search at the PRAIRIE Artificial Intelligence summer school (PAISS 2018) [slides]     Older: see CV    </description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/older_news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/older_news/</guid>
+      <description>2018
+ Invited speaker, AI and Vision session at SophIA Summit 2018 Paper accepted at ECCV18: Semi-Convolutional Operators for Instance Segmentation [paper] Our work on Capturing the Geometry of Object Categories from Video Supervision has been accepted to TPAMI CVPR18 outstanding reviewer award Lecture about visual search at the PRAIRIE Artificial Intelligence summer school PAISS 2018 Paper accepted at CVPR18: Self-supervised Learning of Geometrically Stable Features Through Probabilistic Introspection (spotlight) [project page, video]  Back to the Main Page</description>
     </item>
     
   </channel>
