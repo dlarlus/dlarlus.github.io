@@ -12,8 +12,9 @@
       <pubDate>Sun, 10 Jan 2021 18:48:42 +0100</pubDate>
       
       <guid>/news/</guid>
-      <description>2021
- Paper accepted at 3DV21: NeuralDiff: Segmenting 3D objects that move in egocentric videos [paper, project page, video] Co-organizing the ImageNet Past, Present, Future workshop at NeurIPS20 Paper accepted at ICCV21: Concept Greneralization in visual representations [project page, video, code] I&amp;rsquo;m one of the organizers of the PAISS Summer School 2021 (organized by MIAI, PRAIRIE and NAVER LABS Europe) Invited talk at the Women in Computer Vision (WiCV) Workshop at CVPR21 [Video] Invited talk at the ANITI research institute (scientific seminar) 2 papers accepted at CVPR21  Probabilistic Embeddings for Cross-Modal Retrieval [paper, code] Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning (oral) [paper, blog]   Area Chair for CVPR21, MVA21, ICCV21, BMVC21 2 papers accepted at WACV21  Unsupervised meta-domain adaptation for fashion retrieval [paper, code, video] StacMR: Scene-Text Aware Cross-Modal Retrieval [paper, code, video]    2020</description>
+      <description>2022
+ Paper accepted at CVPR22: On the Road to Online Adaptation for Semantic Image Segmentation 2 papers accepted at ICLR22  ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity [paper] Learning Super-Features for Image Retrieval [paper,code]   Co-organizing the Wiki-M3L workshop at ICLR22 Area Chair for CVPR22  2021
+ Paper accepted at 3DV21: NeuralDiff: Segmenting 3D objects that move in egocentric videos [paper, project page, video] Co-organizing the ImageNet Past, Present, Future workshop at NeurIPS21 Paper accepted at ICCV21: Concept Greneralization in visual representations [project page, video, code] Co-organizing of the PAISS Summer School 2021 (organized by MIAI, PRAIRIE and NAVER LABS Europe) Invited talk at the Women in Computer Vision (WiCV) Workshop at CVPR21 [Video] Invited talk at the ANITI research institute (scientific seminar) 2 papers accepted at CVPR21  Probabilistic Embeddings for Cross-Modal Retrieval [paper, code] Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning (oral) [paper, project page]   2 papers accepted at WACV21  Unsupervised meta-domain adaptation for fashion retrieval [paper, code, video] StacMR: Scene-Text Aware Cross-Modal Retrieval [paper, code, video]   Area Chair for CVPR21, MVA21, ICCV21, BMVC21  2020</description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@
       <pubDate>Sun, 10 Jan 2021 18:48:42 +0100</pubDate>
       
       <guid>/publications/</guid>
-      <description>NeuralDiff: Segmenting 3D objects that move in egocentric videos. Vadim Tschernezki, Diane Larlus, Andrea Vedaldi. 3DV 2021 Concept Greneralization in visual representations. Bülent Sariyildiz, Yannis Kalantidis, Diane Larlus, Karteek Alahari. ICCV 2021 [project page, video] Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning. Riccardo Volpi, Diane Larlus, Gregory Rogez. CVPR 2021 [paper] Probabilistic Embeddings for Cross-Modal Retrieval. Sanghyuk Chun, Seong Joon Oh, Rafael Sampaio de Rezende, Yannis Kalantidis, Diane Larlus.</description>
+      <description>ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity. Ginger Delmas, Rafael Sampaio de Rezende, Gabriela Csurka, Diane Larlus. ICLR 2022 Learning Super-Features for Image Retrieval. Philippe Weinzaepfel, Thomas Lucas, Diane Larlus, Yannis Kalantidis. ICLR 2022 NeuralDiff: Segmenting 3D objects that move in egocentric videos. Vadim Tschernezki, Diane Larlus, Andrea Vedaldi. 3DV 2021 Probabilistic Embeddings for Cross-Modal Retrieval. Sanghyuk Chun, Seong Joon Oh, Rafael Sampaio de Rezende, Yannis Kalantidis, Diane Larlus.</description>
     </item>
     
     <item>
@@ -31,7 +32,7 @@
       <pubDate>Sun, 10 Jan 2021 18:48:42 +0100</pubDate>
       
       <guid>/talks/</guid>
-      <description>          June 2021   Invited talk at the Women in Computer Vision (WiCV) Workshop at CVPR21 - Lifelong visual representation learning [Video]   May 2021  Invited talk at the ANITI research institute (scientific seminar) - Learning from weak supervision and mitigating catastrophic forgetting   October 2020  Keynote Speaker for MIAI Days - Lifelong visual representation learning   August 2020  Invited talk at the ILR Workshop at ECCV20 - From Instance-Level to Semantic Image Retrieval [Video]   November 2019  Invited talk at the SOLARIS Workshop - Self-supervised learning for category-level geometry estimation   April 2019  Invited talk at the StatLearn 19 conference - Learning Image Representations for Efficient Visual Search   November 2018  Invited speaker, AI and Vision session at SophIA Summit - Visual Search   July 2018  Lecture at the PRAIRIE Artificial Intelligence summer school (PAISS) [slides] - Visual Search          Older: see CV    </description>
+      <description>          Jan 2022   Invited talk at KUIS AI Meetings - Towards Semantic Understanding in Egocentric Videos   Jun 2021   Invited talk at the Women in Computer Vision (WiCV) Workshop at CVPR21 - Lifelong visual representation learning [Video]   May 2021  Invited talk at the ANITI research institute (scientific seminar) - Learning from weak supervision and mitigating catastrophic forgetting   Oct 2020  Keynote Speaker for MIAI Days - Lifelong visual representation learning   Aug 2020  Invited talk at the ILR Workshop at ECCV20 - From Instance-Level to Semantic Image Retrieval [Video]   Nov 2019  Invited talk at the SOLARIS Workshop - Self-supervised learning for category-level geometry estimation   Apr 2019  Invited talk at the StatLearn 19 conference - Learning Image Representations for Efficient Visual Search   Nov 2018  Invited speaker, AI and Vision session at SophIA Summit - Visual Search   Jul 2018  Lecture at the PRAIRIE Artificial Intelligence summer school (PAISS) [slides] - Visual Search          Older: see CV    </description>
     </item>
     
     <item>
@@ -40,7 +41,7 @@
       <pubDate>Sun, 10 Jan 2021 18:48:42 +0100</pubDate>
       
       <guid>/teaching/</guid>
-      <description>          2021/2022   Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   May 2021   Guest lecture on Visual Search - Hanoi University of Science and Technology (HUST), Vietnam   2020/2021   Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   2020  Découvrir l’intelligence artificielle par le jeu (Discover AI with games is a 2 day training session for high school teachers) - Maison pour la Science Alpes-Dauphiné   Nov 2019   Lecture on Visual Search as part of the &amp;lsquo;Deep Learning&amp;rsquo; course for the MVA master - ENS Paris   2019/2020   Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   Feb 2019  Lecture on Visual Search as part of the &amp;lsquo;Deep Learning in Practice&amp;rsquo; course for the MVA master - ENS Paris   2018/2019  Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   July 2018  Lecture on Visual Search at the PRAIRIE Artificial Intelligence summer school (PAISS 2018) [slides]     Older: see CV    </description>
+      <description>          Jan 2022   Guest lecture on Visual Search - Posts and Telecommunications Institute of Technology (PTIT), Vietnam   2021/2022   Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   May 2021   Guest lecture on Visual Search - Hanoi University of Science and Technology (HUST), Vietnam   2020/2021   Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   2020  Découvrir l’IA par le jeu (Discover AI with games, a 2 day training session for high school teachers) - Maison pour la Science Alpes-Dauphiné   Nov 2019   Lecture on Visual Search as part of the &amp;lsquo;Deep Learning&amp;rsquo; course for the MVA master - ENS Paris   2019/2020   Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   Feb 2019  Lecture on Visual Search as part of the &amp;lsquo;Deep Learning in Practice&amp;rsquo; course for the MVA master - ENS Paris   2018/2019  Comprendre des données visuelles à grande échelle - ENSIMAG, Grenoble   July 2018  Lecture on Visual Search at the PRAIRIE Artificial Intelligence summer school (PAISS 2018) [slides]     Older: see CV    </description>
     </item>
     
     <item>
@@ -49,8 +50,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/older_news/</guid>
-      <description>2018
+      <description>2019
+ Paper accepted at ICCV19: Fine-Grained Action Retrieval through Multiple Parts-of-Speech Embeddings [project page, video] Area Chair for ICCV19 Co-organizing the FFSS-USAD workshop at CVPR19 Invited talk at the StatLearn 19 conference  2018
  Invited speaker, AI and Vision session at SophIA Summit 2018 Paper accepted at ECCV18: Semi-Convolutional Operators for Instance Segmentation [paper] Our work on Capturing the Geometry of Object Categories from Video Supervision has been accepted to TPAMI CVPR18 outstanding reviewer award Lecture about visual search at the PRAIRIE Artificial Intelligence summer school PAISS 2018 Paper accepted at CVPR18: Self-supervised Learning of Geometrically Stable Features Through Probabilistic Introspection (spotlight) [project page, video]  Back to the Main Page</description>
+    </item>
+    
+    <item>
+      <title>Older projects</title>
+      <link>/older_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/older_projects/</guid>
+      <description>Back to the Main Page</description>
     </item>
     
   </channel>
